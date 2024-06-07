@@ -161,6 +161,6 @@ To run the program, you need an 8086 emulator or assembler. You can use emulator
 
 1. Download and install 8086 simulator from [here](https://emu8086-microprocessor-emulator.en.softonic.com/?ex=RAMP-2046.0).
 2. Clone this repository to your local machine.
-3. Open 8086 simulator and load the `Zadaca1 code.asm` file.
+3. Open 8086 simulator and load the `Zadaca1 8086 code.asm` file.
 4. Assemble the code by pressing the Assemble button.
 5. Run the program by pressing the Run button or by pressing F10.
